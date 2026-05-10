@@ -105,5 +105,5 @@ html[data-theme="dark"] .token.entity {
 /* Sidebar resize handle styling */
 
 html[data-theme="dark"] .sl-resize-x {
-	background: var(--color-canvas-dark) !important;
+	background: var(--color-canvas) !important;
 }
