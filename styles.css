@@ -1,0 +1,103 @@
+/**
+ * Nord Theme Originally by Arctic Ice Studio
+ * https://nordtheme.com
+ *
+ * Ported for PrismJS by Zane Hitchcoxc (@zwhitchcox) and Gabriel Ramos (@gabrieluizramos)
+ * Ported for Stoplight Elements by Yurii Kadirov (@sirkadirov)
+ */
+
+html[data-theme="dark"] div[class*="language-"] {
+	color: #f8f8f2;
+	background: none;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+html[data-theme="dark"] .token.comment,
+html[data-theme="dark"] .token.prolog,
+html[data-theme="dark"] .token.doctype,
+html[data-theme="dark"] .token.cdata {
+	color: #636f88 !important;
+}
+
+html[data-theme="dark"] .token.punctuation {
+	color: #81A1C1 !important;
+}
+
+html[data-theme="dark"] .namespace {
+	opacity: .7 !important;
+}
+
+html[data-theme="dark"] .token.property,
+html[data-theme="dark"] .token.tag,
+html[data-theme="dark"] .token.constant,
+html[data-theme="dark"] .token.symbol,
+html[data-theme="dark"] .token.deleted {
+	color: #81A1C1 !important;
+}
+
+html[data-theme="dark"] .token.number {
+	color: #B48EAD !important;
+}
+
+html[data-theme="dark"] .token.boolean {
+	color: #81A1C1 !important;
+}
+
+html[data-theme="dark"] .token.selector,
+html[data-theme="dark"] .token.attr-name,
+html[data-theme="dark"] .token.string,
+html[data-theme="dark"] .token.char,
+html[data-theme="dark"] .token.builtin,
+html[data-theme="dark"] .token.inserted {
+	color: #A3BE8C !important;
+}
+
+html[data-theme="dark"] .token.operator,
+html[data-theme="dark"] .token.entity,
+html[data-theme="dark"] .token.url,
+html[data-theme="dark"] .language-css .token.string,
+html[data-theme="dark"] .style .token.string,
+html[data-theme="dark"] .token.variable {
+	color: #81A1C1 !important;
+}
+
+html[data-theme="dark"] .token.atrule,
+html[data-theme="dark"] .token.attr-value,
+html[data-theme="dark"] .token.function,
+html[data-theme="dark"] .token.class-name {
+	color: #88C0D0 !important;
+}
+
+html[data-theme="dark"] .token.keyword {
+	color: #81A1C1 !important;
+}
+
+html[data-theme="dark"] .token.regex,
+html[data-theme="dark"] .token.important {
+	color: #EBCB8B !important;
+}
+
+html[data-theme="dark"] .token.important,
+html[data-theme="dark"] .token.bold {
+	font-weight: bold !important;
+}
+
+html[data-theme="dark"] .token.italic {
+	font-style: italic !important;
+}
+
+html[data-theme="dark"] .token.entity {
+	cursor: help !important;
+}
