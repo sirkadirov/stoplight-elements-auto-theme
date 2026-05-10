@@ -101,3 +101,9 @@ html[data-theme="dark"] .token.italic {
 html[data-theme="dark"] .token.entity {
 	cursor: help !important;
 }
+
+/* Sidebar resize handle styling */
+
+html[data-theme="dark"] .sl-resize-x {
+	background: var(--color-border) !important;
+}
