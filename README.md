@@ -8,18 +8,18 @@ This project contains a modified stylesheet of a Nord theme for Prism.js, which 
 
 To use this theme mode switching functionality with your Stoplight Elements, simply include the following lines in the `<head>` section of your HTML document, after including the Stoplight Elements script and stylesheet:
 
+### Statically CDN
+
+```html
+<link rel="stylesheet" href="https://cdn.statically.io/gh/sirkadirov/stoplight-elements-auto-theme@main/styles.css?v=2">
+<script src="https://cdn.statically.io/gh/sirkadirov/stoplight-elements-auto-theme@main/script.js?v=2"></script>
+```
+
 ### JSDelivr CDN
 
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sirkadirov/stoplight-elements-auto-theme@main/styles.css">
 <script src="https://cdn.jsdelivr.net/gh/sirkadirov/stoplight-elements-auto-theme@main/script.js"></script>
-```
-
-### Statically CDN
-
-```html
-<link rel="stylesheet" href="https://cdn.statically.io/gh/sirkadirov/stoplight-elements-auto-theme@main/styles.css">
-<script src="https://cdn.statically.io/gh/sirkadirov/stoplight-elements-auto-theme@main/script.js"></script>
 ```
 
 ## Credits
