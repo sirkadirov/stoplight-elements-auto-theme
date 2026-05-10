@@ -1,0 +1,1 @@
+# stoplight-elements-auto-theme
