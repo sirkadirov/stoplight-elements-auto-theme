@@ -28,7 +28,7 @@ To use this theme mode switching functionality with your Stoplight Elements, sim
 
 - The original [Nord theme](https://nordtheme.com/) was created by Arctic Ice Studio & Sven Greb, and enhanced by contributors.
 - The theme was adapted for Prism.js by [Zane Hitchcoxc](https://github.com/zwhitchcox) and [Gabriel Ramos](https://github.com/gabrieluizramos), their work can be found in the official [Prism.js themes repository](https://github.com/PrismJS/prism-themes) on GitHub. Their work was licensed under the MIT License.
-- The theme was further modified and adapted for usage with Stoplight Elements by [Yurii Kadirov](https://github.com/sirkadirov) for usage in Unisched, a mobile application that acts as a central hub for academic life, focusing on providing a smooth experience for students and staff of Ukrainian universities, and is licensed under the MIT License.
+- The theme was further modified and adapted for usage with Stoplight Elements by [Yurii Kadirov](https://github.com/sirkadirov), an author of [Unisched](https://unisched.app), a mobile application that acts as a central hub for academic life, focusing on providing a smooth experience for students and staff of Ukrainian universities, and is licensed under the MIT License.
 - Also, the theme switching script was created by [Yurii Kadirov](https://github.com/sirkadirov), and is licensed under the MIT License.
 
 ## License
