@@ -1,6 +1,8 @@
-MIT License
+# MIT License
 
-Copyright (c) 2026 Yurii Kadirov
+- Copyright (c) 2016-present Sven Greb <development@svengreb.de> (https://www.svengreb.de)
+- Copyright (C) 2020 Zane Hitchcoxc (https://github.com/zwhitchcox) and Gabriel Ramos (https://github.com/gabrieluizramos)
+- Copyright (c) 2026 Yurii Kadirov <admin@sirkadirov.com> (https://sirkadirov.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
