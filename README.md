@@ -1,5 +1,7 @@
 # Theme mode switching for Stoplight Elements
 
+![Screenshot](https://github.com/user-attachments/assets/388db7c1-ede6-41da-9052-2a7c903a4645)
+
 This is a simple script and stylesheet to enable automatic theme switching for Stoplight Elements based on the user's OS theme preference (light or dark mode). It listens for changes in the user's theme preference and updates the Stoplight Elements theme accordingly.
 
 This project contains a modified stylesheet of a Nord theme for Prism.js, which is used by Stoplight Elements for syntax highlighting. It was adapted to work with the theme switching functionality and to ensure that the styles are applied correctly when the theme changes.
